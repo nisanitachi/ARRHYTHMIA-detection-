@@ -2,6 +2,7 @@
 <img src="https://media.discordapp.net/attachments/1223174231936995390/1286010161596596317/image.png?ex=66ec59cb&is=66eb084b&hm=881addfe899e7f03e8c072eb984ba3a31f2b499480adb7c6511b5c539b2832c7&=&format=webp&quality=lossless&width=1247&height=408">
 <p align="center">📈10 sec ECG REPORT📈</p>
 <img src="https://media.discordapp.net/attachments/1223174231936995390/1286009422597853204/Figure_1.png?ex=66ec591b&is=66eb079b&hm=d3409a0e0372697e3a6c64859bde292441490363990a49ff5f1b8a879839a43c&=&format=webp&quality=lossless&width=1216&height=603">
+<img src="https://media.discordapp.net/attachments/1223174231936995390/1286022435396780154/image.png?ex=66ec6539&is=66eb13b9&hm=11a4f27e5b6c6fdbd9449165937f0c9e090e33685ab33403054f3af913880c90&=&format=webp&quality=lossless&width=1255&height=603">
 <p align="center">📉OUTPUT AFTER ANALYSIS📉</p>
 
 ## ❣Overview❣
